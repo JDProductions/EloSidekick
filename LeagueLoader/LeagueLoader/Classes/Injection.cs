@@ -60,7 +60,7 @@ namespace LeagueLoader
             
             Process targetProcess = tProcess;
             string dllName = dllPath;
-            const string PROCESSNAME = "BatteryLife.exe";
+            const string PROCESSNAME = "notepad";
 
             // True
             while (Process.GetProcessesByName(PROCESSNAME).Length == 0)
