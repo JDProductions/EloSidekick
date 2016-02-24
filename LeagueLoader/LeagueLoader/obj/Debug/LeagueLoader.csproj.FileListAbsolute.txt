@@ -16,3 +16,6 @@ C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debu
 C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.Form1.resources
 C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.Properties.Resources.resources
 C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.csproj.GenerateResource.Cache
+C:\Users\duboisj\Desktop\EloSidekick\LeagueLoader\LeagueLoader\bin\Debug\LeagueLoader.exe.config
+C:\Users\duboisj\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.exe
+C:\Users\duboisj\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.pdb
