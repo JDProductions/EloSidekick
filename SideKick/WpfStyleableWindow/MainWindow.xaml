@@ -7,7 +7,7 @@
             <TabItem Header="News">
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
-            <TabItem Header="TabItem">
+            <TabItem Header="Scripts">
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
         </TabControl>
