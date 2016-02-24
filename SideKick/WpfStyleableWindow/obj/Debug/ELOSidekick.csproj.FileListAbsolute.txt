@@ -1,0 +1,3 @@
+C:\Users\duboisj\Desktop\Ok\C#\WpfStyleableWindow\bin\Debug\WpfStyleableWindow.exe.config
+C:\Users\duboisj\Desktop\Ok\C#\WpfStyleableWindow\obj\Debug\WpfStyleableWindow.exe
+C:\Users\duboisj\Desktop\Ok\C#\WpfStyleableWindow\obj\Debug\WpfStyleableWindow.pdb
