@@ -5,9 +5,14 @@
     <Grid>
         <TabControl x:Name="tabControl" Margin="10">
             <TabItem Header="News">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FFE5E5E5">
+                    <WebBrowser/>
+                </Grid>
             </TabItem>
             <TabItem Header="Scripts">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Script Database">
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
         </TabControl>
