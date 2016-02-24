@@ -3,6 +3,13 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
         Title="ELOSidekick" Height="394.618" Width="649.93" Style="{StaticResource CustomWindowStyle}" x:Name="testw" Icon="App.ico" BorderBrush="Black" Background="#FF2E2D2D" >
     <Grid>
-        <WebBrowser Margin="10"/>
+        <TabControl x:Name="tabControl" Margin="10">
+            <TabItem Header="News">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>
