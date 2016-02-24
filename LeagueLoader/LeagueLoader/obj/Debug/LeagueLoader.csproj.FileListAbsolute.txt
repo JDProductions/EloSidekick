@@ -1,0 +1,9 @@
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\bin\Debug\LeagueLoader.exe.config
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\bin\Debug\LeagueLoader.exe
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\bin\Debug\LeagueLoader.pdb
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.csprojResolveAssemblyReference.cache
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.Form1.resources
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.Properties.Resources.resources
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.csproj.GenerateResource.Cache
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.exe
+D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.pdb
