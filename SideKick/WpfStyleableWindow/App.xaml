@@ -7,10 +7,10 @@
 
         <!--the brushes used in the template (use these to customize the window look along with the window style (see the bottom of this file)-->
         <SolidColorBrush x:Key="WindowColor" Color="Red"/>
-        <SolidColorBrush x:Key="WindowBackColor" Color="Gray"/>
+        <SolidColorBrush x:Key="WindowBackColor" Color="Black"/>
         <SolidColorBrush x:Key="WindowForeColor" Color="WhiteSmoke"/>
         <SolidColorBrush x:Key="WindowForeHighlightColor" Color="WhiteSmoke"/>
-        <SolidColorBrush x:Key="WindowButtonColor" Color="Blue"/>
+        <SolidColorBrush x:Key="WindowButtonColor" Color="Green"/>
         <SolidColorBrush x:Key="WindowButtonOverColor" Color="LightBlue"/>
         <SolidColorBrush x:Key="WindowButtonPressedColor" Color="DarkBlue"/>
         
