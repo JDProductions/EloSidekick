@@ -20,10 +20,11 @@ namespace LeagueLoader
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Process process = new Process();
+            Process process = Process.GetProcessesByName("notepad")[0];
             try
             {
                 Injection.inject("Jsharp.dll", process);
+                MessageBox.Show(process.ToString());
             }
             catch (Exception args)
             {

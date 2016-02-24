@@ -7,3 +7,12 @@ D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.Propert
 D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.csproj.GenerateResource.Cache
 D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.exe
 D:\School2015\School\C#\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.pdb
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\bin\Debug\LeagueLoader.exe.config
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.exe
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.pdb
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\bin\Debug\LeagueLoader.exe
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\bin\Debug\LeagueLoader.pdb
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.csprojResolveAssemblyReference.cache
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.Form1.resources
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.Properties.Resources.resources
+C:\Users\Fred Asus Laptop\Desktop\EloSidekick\LeagueLoader\LeagueLoader\obj\Debug\LeagueLoader.csproj.GenerateResource.Cache
