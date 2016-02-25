@@ -3,18 +3,21 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
         Title="ELOSidekick" Height="394.618" Width="649.93" Style="{StaticResource CustomWindowStyle}" x:Name="testw" Icon="App.ico" BorderBrush="Black" Background="#FF2E2D2D" >
     <Grid>
-        <TabControl x:Name="tabControl" Margin="10">
+        <TabControl x:Name="tabControl" Margin="10,0,10,29">
             <TabItem Header="News">
                 <Grid Background="#FFE5E5E5">
                     <WebBrowser/>
                 </Grid>
             </TabItem>
             <TabItem Header="Scripts">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FFE5E5E5">
+                    <ContentControl Content="ContentControl"/>
+                </Grid>
             </TabItem>
             <TabItem Header="Script Database">
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
         </TabControl>
+        <Label x:Name="label1" Content="Status" HorizontalAlignment="Left" Margin="10,322,0,0" VerticalAlignment="Top" Foreground="White" Background="#FF515151" Opacity="0.1"/>
     </Grid>
 </Window>

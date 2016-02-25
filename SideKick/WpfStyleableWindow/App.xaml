@@ -86,7 +86,7 @@
                                     sw:ShowSystemMenuBehavior.LeftButtonShowAt="{Binding ElementName=WindowContent}"/>
                         </Label>-->
                         <Label Grid.Column="1" DockPanel.Dock="Left" Content="{TemplateBinding Property=Title}" Padding="3,0,0,0"                                                                                  
-                                    HorizontalContentAlignment="Center"
+                                    HorizontalContentAlignment="Left"
                                     VerticalContentAlignment="Center"
                                     HorizontalAlignment="Stretch"
                                     VerticalAlignment="Stretch"
